@@ -49,4 +49,8 @@ The error changing as we move toward the minimum.
 * pandas (read the dataset)
 * matplotlib (plotting)
 
+### References
 
+<a href="https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D/">Siraj Raval - Youtube - Intro - The Math of Intelligence</a>
+
+<a href="https://iamtrask.github.io/2015/07/27/python-network-part2//">A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - Andrew Trask</a>
