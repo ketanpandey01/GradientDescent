@@ -8,7 +8,7 @@ This is the Implementation of gradient descent algorithm to find the value of pa
 
 Visualizing the data
 
-![Data](https://github.com/alberduris/The_Math_of_Intelligence/raw/master/Week1/resources/data.png)
+![Data](https://github.com/ketanpandey01/GradientDescent/blob/master/resources/visualizingData.PNG)
 
 
 ### Cost Function - Sum of Squared Error
