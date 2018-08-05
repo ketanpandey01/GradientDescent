@@ -26,6 +26,22 @@ def CostFunction(m,b,data):
     sumError = sumError/m_examples
     return sumError
 ```
+### Visualize data plus fitting line
+
+* Before fitting the parameters
+
+![Data plus fitting line](https://github.com/ketanpandey01/GradientDescent/blob/master/resources/errorFit.PNG)
+
+* After Running Gradient Descent
+
+![Data plus fitting line](https://github.com/ketanpandey01/GradientDescent/blob/master/resources/bestFit.PNG)
+
+### Plot - Error
+
+The error changing as we move toward the minimum.
+
+![Error](https://github.com/ketanpandey01/GradientDescent/blob/master/resources/visualizingError.PNG)
+
 
 ## Dependencies]
 
